@@ -6,4 +6,4 @@ License file added.
 
 difftest
 
-I hope this isn't much of a problem!
+This is bound to cause trouble!
